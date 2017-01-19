@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{6C8E8206-7949-EA27-1909-09ABDD81ACC4}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "TestingGrounds",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
