@@ -11,6 +11,11 @@ Saved
 *.xcodeproj
 *.xcworkspace
 
+# Temp Files
+*.swp
+*.swo
+*.tmp
+
 # OSX generated files #
 ######################
 */.DS_Store
