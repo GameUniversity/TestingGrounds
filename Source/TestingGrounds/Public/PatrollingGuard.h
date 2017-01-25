@@ -13,13 +13,13 @@ class TESTINGGROUNDS_API APatrollingGuard : public ATP_ThirdPersonCharacter
 {
 	GENERATED_BODY()
 	
-	
-protected:
-
-    UPROPERTY(EditInstanceOnly, Category = "Patrol Route")
-    TArray<AActor*> PatrolPointsCPP;
-	
-public:
-    TArray<AActor*> GetPatrolPoints() const;
+//	
+//protected:
+//
+//    UPROPERTY(EditAnywhere, Category = "Patrol Route")
+//    TArray<AActor*> PatrolPointsCPP;
+//	
+//public:
+//    TArray<AActor*> GetPatrolPoints() const;
     
 };

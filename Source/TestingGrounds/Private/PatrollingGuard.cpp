@@ -5,8 +5,8 @@
 
 
 
-TArray<AActor*> APatrollingGuard::GetPatrolPoints() const
-{
-    return PatrolPointsCPP;
-}
+//TArray<AActor*> APatrollingGuard::GetPatrolPoints() const
+//{
+//    return PatrolPointsCPP;
+//}
 
